@@ -82,3 +82,7 @@ button#btn-jogar{
     font-size: 18px;
     color: #fff;
 }
+
+.container{
+    margin: auto;
+}
